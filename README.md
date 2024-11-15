@@ -28,6 +28,8 @@ The dataset includes information on:
 3. Explore player demographics and preferences.
 4. Identify correlations between ratings, sales, and player count.
 
+![Library_project](https://github.com/kumawatmanish05/Rea_Games_EDA/blob/main/Best-PC-Graphics-2020.jpg)  
+
 ---
 
 ## 📊 Key Insights
@@ -57,6 +59,8 @@ The dataset includes information on:
 2. Improved skills in **data visualization** to communicate insights effectively.
 3. Gained insights into the gaming industry's dynamics and trends.
 
+     
+
 ---
 
 ## 📂 Repository Structure
@@ -69,3 +73,5 @@ The dataset includes information on:
 ├── images/
 │   └── visualizations/        # Output visualizations
 ├── README.md                  # Project documentation
+
+![Library_project](https://github.com/kumawatmanish05/Rea_Games_EDA/blob/main/Best-PC-Graphics-2020.jpg)  
